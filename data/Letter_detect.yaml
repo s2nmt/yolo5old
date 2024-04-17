@@ -1,5 +1,5 @@
-train: /relative to 'path'/train/  # train images (relative to 'path')
-val: /relative to 'path'/val/ # val images (relative to 'path')
+train: /content/drive/MyDrive/do an tot nghiep/OCR/OCR/images/train/  # train images (relative to 'path')
+val: //content/drive/MyDrive/do an tot nghiep/OCR/OCR/images/val/ # val images (relative to 'path')
 
 
 # Classes
